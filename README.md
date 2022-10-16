@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @11chens
-- 👀 I’m interested in deep learning,FPGA.
-- 🌱 I’m currently learning FPGA,ASIC.
-- 💞️ I’m looking to collaborate on ASIC and FPGA -based designs
+Hi, I’m @11chens
+I’m interested in deep learning,FPGA-based designs.
 
 <br>qq:1902739745</br>
-I like to watch detective Conan✨✨.
 
 <!---
 11chens/11chens is a  special  repository because its `README.md` (this file) appears on your GitHub profile.
